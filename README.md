@@ -4,8 +4,8 @@ A minimal Bayesian A/B testing tool. Upload two groups of experiment data, pick 
 
 ## Demo
 
-![Bayesian A/B Tester demo](<img width="986" height="797" alt="Screenshot 2026-09-09 090752" src="https://github.com/user-attachments/assets/a6136fa4-879d-4e1c-ab82-ec43cd494c2b" />
-)
+<img width="986" height="797" alt="Screenshot 2026-09-09 090752" src="https://github.com/user-attachments/assets/a6136fa4-879d-4e1c-ab82-ec43cd494c2b" />
+
 
 ## Problem
 
